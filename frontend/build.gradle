@@ -1,5 +1,0 @@
-plugins {
-    id 'com.brightspot.viewgen'
-}
-
-description = 'Brightspot Training: Frontend'

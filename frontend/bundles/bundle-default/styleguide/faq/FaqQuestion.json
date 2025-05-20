@@ -1,5 +1,0 @@
-{
-    "_template": "FaqQuestion.hbs",
-    "question": "{{words([10,20])}}",
-    "answer": "{{words([15,25])}}"
-}

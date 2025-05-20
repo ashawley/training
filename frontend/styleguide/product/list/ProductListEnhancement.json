@@ -1,6 +1,0 @@
-{
-  "_template": "/product/list/ProductListEnhancement.hbs",
-  "item": {
-    "_template": "/product/list/ProductList.hbs"
-  }
-}

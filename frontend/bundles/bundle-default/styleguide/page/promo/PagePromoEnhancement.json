@@ -1,7 +1,0 @@
-{
-  "_template": "/page/promo/PagePromoEnhancement.hbs",
-  "item": {
-    "_include": "/page/promo/PagePromoModule.json",
-    "description": "{{words(60)}}"
-  }
-}

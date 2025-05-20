@@ -1,8 +1,0 @@
-[
-  {
-    "_template": "/page/ExternalScript.hbs"
-  },
-  {
-    "_template": "/page/InlineScript.hbs"
-  }
-]

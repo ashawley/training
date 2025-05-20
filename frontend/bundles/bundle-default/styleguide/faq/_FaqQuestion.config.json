@@ -1,9 +1,0 @@
-{
-  "styles": {
-    "/faq/FaqQuestion.hbs": {
-      "fields": [
-        "expandItem"
-      ]
-    }
-  }
-}

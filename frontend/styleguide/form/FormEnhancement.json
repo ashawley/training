@@ -1,6 +1,0 @@
-{
-  "_template": "/form/FormEnhancement.hbs",
-  "item": {
-    "_template": "/form/Form.hbs"
-  }
-}

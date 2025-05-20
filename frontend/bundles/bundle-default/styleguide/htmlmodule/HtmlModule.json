@@ -1,6 +1,0 @@
-{
-  "_template" : "HtmlModule.hbs",
-  "anchorId": "anchorTest",
-  "rawHtml" : "<p> {{words([5,10])}} <strong> {{words([5,10])}} </strong> </p>",
-  "ampFallbackUrl": "."
-}

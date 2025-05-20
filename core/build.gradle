@@ -6,8 +6,6 @@ description = 'Brightspot Training: Core'
 
 dependencies {
 
-    api project(':frontend')
-
     // Brightspot.
     api 'com.psddev:auth'
     api 'com.psddev:aws-ses'

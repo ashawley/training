@@ -1,8 +1,0 @@
-{
-  "_template": "/video/VideoModule.hbs",
-  "title": "Vimeo Video Module",
-  "description": "{{words(20)}}",
-  "player": {
-    "_include": "/vimeo/VimeoVideoPlayer.json"
-  }
-}

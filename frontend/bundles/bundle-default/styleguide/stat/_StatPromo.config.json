@@ -1,9 +1,0 @@
-{
-  "styles": {
-    "/stat/StatPromo.hbs": {
-      "fields": [
-        "statTitlePosition"
-      ]
-    }
-  }
-}

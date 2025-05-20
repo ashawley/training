@@ -1,8 +1,0 @@
-{
-  "_template": "RichTextElementsTiny.hbs",
-  "_textNotes": "This is for use in Typescript ViewModels and should otherwise be ignored",
-
-  "text": {
-    "_include": "/_group/RichTextElementsTiny.json"
-  }
-}

@@ -1,9 +1,0 @@
-{
-    "_template": "/faq/FaqQuestion.hbs",
-    "question": {
-        "_include": "/_group/RichTextElementsTiny.json"
-    },
-    "answer": {
-        "_include": "/_group/RichTextElementsMedium.json"
-    }
-}

@@ -1,6 +1,0 @@
-{
-  "_template": "/product/promo/ProductPromoEnhancement.hbs",
-  "item": {
-    "_include": "/product/promo/ProductPromoModule.json"
-  }
-}

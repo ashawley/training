@@ -1,6 +1,0 @@
-{
-  "_template" : "RichTextBreakingNewsBanner.hbs",
-  "items": [
-    "{{paragraphs(1)}}"
-  ]
-}

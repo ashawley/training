@@ -1,6 +1,0 @@
-{
-  "_template": "/quote/QuoteListEnhancement.hbs",
-  "item": {
-    "_template": "/quote/QuoteList.hbs"
-  }
-}

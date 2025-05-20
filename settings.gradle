@@ -40,13 +40,9 @@ brightspot {
 
 include(':core')
 include(':web')
-include(':frontend')
-include(':bundle-default')
 
 project(':core').projectDir = file('core')
 project(':web').projectDir = file('web')
-project(':frontend').projectDir = file('frontend')
-project(':bundle-default').projectDir = file('frontend/bundles/bundle-default')
 
 gradleEnterprise {
     buildScan {

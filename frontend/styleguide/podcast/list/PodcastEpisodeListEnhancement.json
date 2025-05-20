@@ -1,6 +1,0 @@
-{
-  "_template": "/podcast/list/PodcastEpisodeListEnhancement.hbs",
-  "item": {
-    "_template": "/podcast/list/PodcastEpisodeList.hbs"
-  }
-}

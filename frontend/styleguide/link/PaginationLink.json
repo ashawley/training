@@ -1,8 +1,0 @@
-{
-  "_template": "PaginationLink.hbs",
-  "href": "",
-  "body": {
-    "_include": "/_group/RichTextElementsTiny.json",
-    "_key": 0
-  }
-}

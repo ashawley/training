@@ -1,4 +1,0 @@
-{
-  "_template": "/facebookinstantarticles/Analytics.hbs",
-  "javascript": "// optional javascript from the analyticsScript field in InstantArticlesSiteSettings"
-}

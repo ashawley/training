@@ -1,6 +1,0 @@
-{
-  "_template": "/person/promo/PersonPromoEnhancement.hbs",
-  "item": {
-    "_include": "/person/promo/PersonPromoModule.json"
-  }
-}

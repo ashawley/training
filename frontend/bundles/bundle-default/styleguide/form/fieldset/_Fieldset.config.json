@@ -1,7 +1,0 @@
-{
-  "styles": {
-    "/form/fieldset/Fieldset.hbs": {
-      "fields": ["fieldsetColumns"]
-    }
-  }
-}

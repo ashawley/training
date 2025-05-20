@@ -1,1 +1,0 @@
-import './NewsletterInline.less'

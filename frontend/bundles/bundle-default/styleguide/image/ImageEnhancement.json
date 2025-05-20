@@ -1,6 +1,0 @@
-{
-  "_template": "ImageEnhancement.hbs",
-  "item": {
-    "_include": "/figure/Figure.json"
-  }
-}

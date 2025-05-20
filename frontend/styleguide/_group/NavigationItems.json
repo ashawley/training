@@ -1,8 +1,0 @@
-[
-  {
-    "_template": "/navigation/NavigationItem.hbs"
-  },
-  {
-    "_template": "/social/SocialLink.hbs"
-  }
-]

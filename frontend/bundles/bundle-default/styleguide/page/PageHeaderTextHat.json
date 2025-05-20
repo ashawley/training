@@ -1,4 +1,0 @@
-{
-  "_template": "PageHeaderTextHat.hbs",
-  "text": "{{words([5,15])}}"
-}

@@ -1,8 +1,0 @@
-[
-  {
-    "_include": "/_group/FormInputs.json"
-  },
-  {
-    "_template": "/form/fieldset/Fieldset.hbs"
-  }
-]

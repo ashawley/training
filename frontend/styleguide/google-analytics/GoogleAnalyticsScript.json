@@ -1,5 +1,0 @@
-{
-  "_template": "./GoogleAnalyticsScript.hbs",
-  "trackingId": "",
-  "attributes": "{\"key1\": \"value1\", \"key2\": \"value2\"}"
-}

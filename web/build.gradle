@@ -5,9 +5,7 @@ plugins {
 description = 'Brightspot Training: Web'
 
 dependencies {
-    implementation project(':frontend')
     implementation project(':core')
-    implementation project(':bundle-default')
 
     // for expansion into the war
     compileOnly 'com.psddev:cms-tool-ui'

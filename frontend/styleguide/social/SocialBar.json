@@ -1,6 +1,0 @@
-{
-  "_template": "SocialBar.hbs",
-  "items": {
-    "_template": "/social/SocialLink.hbs"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "_template": "NewsletterQuote.hbs",
-  "quote": "\"{{words([10,15])}}\"",
-  "attribution": "{{name}}",
-  "date": "{{date}}"
-}
